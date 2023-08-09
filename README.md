@@ -1,11 +1,11 @@
 # Examen Ten Grounds
- Examen para Ten Grounds
+Ten Ground Exam Solution Proposal
 Rene Romero
 
 README
 
-En el archivo hay 3 funciones que resuelven el examen propuesto por Ten Grounds.
-La primera funcion, rand(), crea un array con 4 numeros enteros al azar entre
-100 y 200
+There are 3 functions in the exam.js file.
+The first function, rand(), creates an array with 4 random integers between 100
+and 200.
 
-Las otras dos funciones, examenA y examenB, son propuestas.
+The other two, examA and examB are solution proposals.
