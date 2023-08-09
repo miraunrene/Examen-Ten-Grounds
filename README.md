@@ -1,4 +1,4 @@
-# Examen Ten Grounds
+# Ten Grounds Exam
 Ten Ground Exam Solution Proposal
 Rene Romero
 
